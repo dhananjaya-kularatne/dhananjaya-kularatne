@@ -1,13 +1,13 @@
 # Hi there
 
-I'm Dhananjaya Kularatne, an undergraduate at SLIIT. I build backend applications with Java and Spring Boot and deploy them on Microsoft Azure. My projects include a Telegram bot for subscription reminders, an event-driven clinic platform, and a distributed file storage prototype.
+I'm Dhananjaya Kularatne, a Computer Science undergraduate at SLIIT interested in software engineering and problem-solving. I enjoy working with others, learning new technologies, and applying what I learn to practical projects.
 
 ---
 
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cs,js,ts,react,mysql,azure,docker,git,githubactions,postman,unity&amp;perline=15" alt="Java, Spring, Python, C, C#, JavaScript, TypeScript, React, MySQL, Azure, Docker, Git, GitHub Actions, Postman, and Unity" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cs,js,ts,react,mysql,azure,docker,git,githubactions,postman&amp;perline=14" alt="Java, Spring, Python, C, C#, JavaScript, TypeScript, React, MySQL, Azure, Docker, Git, GitHub Actions, and Postman" />
 </p>
 
 ---
