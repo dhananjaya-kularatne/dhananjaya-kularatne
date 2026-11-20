@@ -1,35 +1,17 @@
-# Dhananjaya Kularatne
+# Hi there
 
-I'm an undergraduate at SLIIT. I build backend applications with Java and Spring Boot, and I've worked on cloud deployments, event-driven services, and distributed systems.
+I'm Dhananjaya Kularatne, an undergraduate at SLIIT. I build backend applications with Java and Spring Boot and deploy them on Microsoft Azure. My projects include a Telegram bot for subscription reminders, an event-driven clinic platform, and a distributed file storage prototype.
 
-## Selected projects
+---
 
-### [SwiftCare](https://github.com/swiftcare-org/swiftcare)
+### Languages & Tools
 
-Built a Kafka consumer service that powers an outpatient clinic's activity feed and reports. Added automated deployment rollback and Azure monitoring.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cs,js,ts,react,mysql,azure,docker,git,githubactions,postman,unity&amp;perline=15" alt="Java, Spring, Python, C, C#, JavaScript, TypeScript, React, MySQL, Azure, Docker, Git, GitHub Actions, Postman, and Unity" />
+</p>
 
-**Stack** · C#, ASP.NET Core, React, TypeScript, MySQL, Apache Kafka, Docker, GitHub Actions, Azure Container Apps, Application Insights
+---
 
-### [Subtracker Bot](https://github.com/dhananjaya-kularatne/subtracker-bot)
-
-Built a Telegram bot that tracks subscriptions and free trials, sends renewal reminders, and falls back to email when Telegram delivery fails.
-
-**Stack** · Java, Spring Boot, Spring Data JPA, MySQL, Telegram Bot API, Brevo, Azure App Service, Azure Database for MySQL, Azure Key Vault
-
-### [Factory Reset](https://github.com/factory-reset-org/factory-reset)
-
-Co-developed a 3D game. Built first-person movement, combat, and physics interactions, plus an enemy that uses tactical A* pathfinding to reach cover along less exposed routes.
-
-**Stack** · C#, Unity, Universal Render Pipeline, Unity Physics
-
-### [PawBack](https://github.com/dhananjaya-kularatne/pawback)
-
-Co-built a web app that lets pet owners create printable QR tags so finders can submit sighting reports.
-
-**Stack** · Java, Spring Boot, Spring Security, MySQL, JavaScript, React, Google OAuth, Microsoft Azure
-
-### [QuorumFS](https://github.com/dhananjaya-kularatne/quorumfs)
-
-Implemented heartbeat-based failure detection and automatic file synchronization for rejoining nodes in a three-node storage prototype.
-
-**Stack** · Python, TCP sockets, multithreading, Flask
+<p align="center">
+  <a href="mailto:djaya2100@gmail.com">Email me</a>
+</p>
