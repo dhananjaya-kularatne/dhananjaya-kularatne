@@ -7,5 +7,5 @@ I'm Dhananjaya Kularatne, a Computer Science undergraduate at SLIIT. I'm interes
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cs,dotnet,js,ts,react,mysql,azure,docker,git,githubactions,postman&amp;perline=15" alt="Java, Spring, Python, C, C#, .NET, JavaScript, TypeScript, React, MySQL, Azure, Docker, Git, GitHub Actions, and Postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,cs,dotnet,js,react,mysql,azure,docker,git,githubactions,postman&amp;perline=15" alt="Java, Spring, Python, C, C#, .NET, JavaScript, TypeScript, React, MySQL, Azure, Docker, Git, GitHub Actions, and Postman" />
 </p>
